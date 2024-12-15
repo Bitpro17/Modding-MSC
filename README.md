@@ -1,0 +1,3 @@
+[Main guide is here](https://github.com/Bitpro17/Modding-MSC/wiki)
+
+There are also some mod examples here...
